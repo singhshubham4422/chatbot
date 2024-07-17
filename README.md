@@ -135,6 +135,8 @@ response = chatbot.predict(query="What is intel arc")
 print(response)
 ```
 ## Screenshots
+![Screenshot](Screenshot%202024-07-17%20135856.png)
+
 
 ## Acknowledgements
 ---------------
