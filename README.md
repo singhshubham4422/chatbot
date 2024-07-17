@@ -138,6 +138,7 @@ print(response)
 ![Screenshot](Screenshot%202024-07-17%20135856.png)
 
 
+
 ## Acknowledgements
 ---------------
 This project uses the [Intel Extension for Transformers](https://github.com/intel-analytics/Extension-for-Transformers), a library that enhances the performance of transformer models on Intel hardware.
