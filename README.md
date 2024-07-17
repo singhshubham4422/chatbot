@@ -134,7 +134,7 @@ chatbot = build_chatbot(config)
 response = chatbot.predict(query="What is intel arc")
 print(response)
 ```
-
+## Screenshots
 
 ## Acknowledgements
 ---------------
